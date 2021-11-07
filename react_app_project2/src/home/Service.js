@@ -6,6 +6,7 @@ import bag from "../image/bag.png"
 import '../App.css'
 function Service() {
   return (
+    
     <div className="service">
      
       {/* ------------------------------------ One------------------------------------------------ */}
